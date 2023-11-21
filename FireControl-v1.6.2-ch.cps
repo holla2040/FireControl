@@ -147,7 +147,8 @@ function onOpen() {
     }
 
     sequenceNumber = staticproperties.sequenceNumberStart;
-    writeComment("v1.6-af-ch");
+    writeComment("v1.6-af");
+    writeComment("ch mods");
     /*
       if (programName) {
         writeComment(programName);
